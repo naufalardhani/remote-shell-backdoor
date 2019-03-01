@@ -1,5 +1,8 @@
 <?php
-
+//Terima kasih sudah menggunakan tools ini, tolong untuk tidak mengganti copyright!
+//Coded by Naufal Ardhani
+//Thanks to : Ardhana - IndoXploit
+//Free recode, tapi tidak untuk copyright!
 $hijau = "\033[32";
 $kuning = "\033[36";
 $kedip = "\033[5";
@@ -21,13 +24,10 @@ $banner = "$merah
         
  
  $cyan
- Coded by   : M Naufal Ardhani
  Team       : Garuda Tersakti 72
  Name       : Remote Access Shell
  Version    : 1.0
- Thanks to  : Ardhana - IndoXploit
- Blog & Web : https://naufalardhani.com
-              http://garudatersakti72.id
+ Website    : http://garudatersakti72.id
                                               \n\n";
 
 echo $banner;
