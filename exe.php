@@ -31,7 +31,7 @@ $banner = "$merah
                                               \n\n";
 
 echo $banner;
-echo " Input Command : ";
+echo " Command : ";
 $cmd = trim(fgets(STDIN, 1024));
 
 
