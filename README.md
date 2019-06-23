@@ -2,6 +2,7 @@
 Remote Shell Backdoor V.1.0
 
 [!] Warning
+.
 -In only url.txt only one link is no more.
 
 1. Upload remote.php to a web server, it's up to any directory.
